@@ -1,4 +1,6 @@
 # Nhóm 1 - Lập trình di động nâng cao
-* Thành viên nhóm:
-  * 20110471 - Trần Nhật Hào
-  * 20110547 - Trần Thanh Phương
+<details>
+ <summary>Thành viên nhóm:</summary>
+ <p>20110471 - Trần Nhật Hào</p>
+ <p> 20110547 - Trần Thanh Phương</p>
+</details>
