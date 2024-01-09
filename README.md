@@ -1,1 +1,4 @@
-# admp431879_05clc
+# Lập trình di động nâng cao
+## Thành viên nhóm:
+### 20110471 - Trần Nhật Hào
+### 20110547 - Trần Thanh Phương
