@@ -1,9 +1,7 @@
-import * as SplashScreen from 'expo-splash-screen';
 import { useEffect, useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import CustomSplashScreen from './components/SplashScreen';
+import SplashScreen from './components/SplashScreen';
 
-SplashScreen.hideAsync();
 export default function App() {
   const [appIsReady, setAppIsReady] = useState(false);
 
@@ -16,7 +14,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      {appIsReady ? <Text>Home</Text> : <CustomSplashScreen />}
+      {appIsReady ? <Text>Home</Text> : <SplashScreen />}
     </View>
   );
 }
